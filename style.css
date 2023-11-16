@@ -1,0 +1,17 @@
+body {
+    background-color: Black;
+}
+.navbar-container {
+    background-color: aqua;
+}
+
+.ul-navbar {
+    height: 100px;
+    display: flex;
+}
+
+.li-navbar{
+    border: 3px solid greenyellow;
+    list-style-type: none;
+    padding: 5px ;
+}
